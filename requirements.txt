@@ -1,0 +1,11 @@
+pandas
+faker
+numpy
+streamlit
+sqlite-utils
+python-dotenv
+langchain
+langchain-groq
+langgraph
+plotly
+
